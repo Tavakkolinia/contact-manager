@@ -93,7 +93,7 @@ class AddContact extends Component {
                   <input
                     type="submit"
                     value="Add contact"
-                    className="btn btn-light btn-block"
+                    className="btn btn-light bg-warning btn-block"
                   />
                 </form>
               </div>

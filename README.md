@@ -1,3 +1,8 @@
+A Simple Contacts Manager created with Create React App and Context API.
+You can toggle contact info, add, edit and delete a contact.
+
+![contactlist](https://user-images.githubusercontent.com/27547727/51743764-9eec1a00-2095-11e9-94cf-2ce79d0cd1e8.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
